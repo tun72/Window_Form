@@ -1,0 +1,9 @@
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\ExanResult\ExanResult\bin\Debug\ExanResult.exe.config
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\ExanResult\ExanResult\obj\Debug\ExanResult.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\ExanResult\ExanResult\obj\Debug\ExanResult.Form1.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\ExanResult\ExanResult\obj\Debug\ExanResult.Properties.Resources.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\ExanResult\ExanResult\obj\Debug\ExanResult.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\ExanResult\ExanResult\bin\Debug\ExanResult.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\ExanResult\ExanResult\bin\Debug\ExanResult.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\ExanResult\ExanResult\obj\Debug\ExanResult.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\ExanResult\ExanResult\obj\Debug\ExanResult.pdb

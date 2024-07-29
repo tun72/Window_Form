@@ -1,0 +1,9 @@
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Registration\Registration\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Registration\Registration\obj\Debug\Registration.Registration.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Registration\Registration\obj\Debug\Registration.pdb
