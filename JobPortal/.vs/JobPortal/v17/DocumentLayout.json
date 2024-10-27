@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\employeemaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\employeemaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\employeemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\employeemaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\admin\\adminmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\admin\\adminmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\viewresumes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\viewresumes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\usermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\usermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\usermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\usermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\resumebuild.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\resumebuild.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\joblisting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\joblisting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\jobdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\jobdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\employeeregister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\employeeregister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\blogdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\blogdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\blog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\blog.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\user\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\user\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\viewresumes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\viewresumes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\viewresumedetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\viewresumedetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\joblist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\joblist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\addjobs.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\addjobs.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\addjobs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\addjobs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|c:\\users\\user\\onedrive - university of computer studies (maubin)\\desktop\\new folder (2)\\jobportal\\jobportal\\employee\\addjobs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A42C7E06-EA49-44D0-855C-E4B4759AB59F}|JobPortal\\JobPortal.csproj|solutionrelative:jobportal\\employee\\addjobs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Default.aspx",
+              "RelativeDocumentMoniker": "JobPortal\\User\\Default.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Default.aspx",
+              "RelativeToolTip": "JobPortal\\User\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T07:23:40.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Admin\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "JobPortal\\Admin\\AdminMaster.Master",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Admin\\AdminMaster.Master",
+              "RelativeToolTip": "JobPortal\\Admin\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T06:31:45.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewResumes.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\ViewResumes.aspx",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\ViewResumes.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\ViewResumes.aspx",
+              "RelativeToolTip": "JobPortal\\Employee\\ViewResumes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T07:11:20.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserMaster.Master",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\UserMaster.Master",
+              "RelativeDocumentMoniker": "JobPortal\\User\\UserMaster.Master",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\UserMaster.Master",
+              "RelativeToolTip": "JobPortal\\User\\UserMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T07:10:36.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Contact.aspx",
+              "RelativeDocumentMoniker": "JobPortal\\User\\Contact.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Contact.aspx",
+              "RelativeToolTip": "JobPortal\\User\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T06:59:57.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\Dashboard.aspx",
+              "RelativeToolTip": "JobPortal\\Employee\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T06:52:08.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Admin\\AdminMaster.Master.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Admin\\AdminMaster.Master.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Admin\\AdminMaster.Master.cs",
+              "RelativeToolTip": "JobPortal\\Admin\\AdminMaster.Master.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:51:50.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\UserMaster.Master.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\UserMaster.Master.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\UserMaster.Master.cs",
+              "RelativeToolTip": "JobPortal\\User\\UserMaster.Master.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:35:41.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResumeBuild.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\ResumeBuild.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\ResumeBuild.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\ResumeBuild.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\ResumeBuild.aspx.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:35:37.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Register.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\Register.aspx.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:35:33.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Profile.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\Profile.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Profile.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\Profile.aspx.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:35:26.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Login.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\Login.aspx.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:35:22.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobListing.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\JobListing.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\JobListing.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\JobListing.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\JobListing.aspx.cs",
+              "ViewState": "AQIAAO8BAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:35:17.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobDetail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\JobDetail.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\JobDetail.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\JobDetail.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\JobDetail.aspx.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:35:12.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeRegister.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\EmployeeRegister.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\EmployeeRegister.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\EmployeeRegister.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\EmployeeRegister.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:32:27.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Default.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\Default.aspx.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:35:02.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Contact.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\Contact.aspx.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:34:54.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlogDetail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\BlogDetail.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\BlogDetail.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\BlogDetail.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\BlogDetail.aspx.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:34:51.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Blog.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Blog.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\Blog.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\Blog.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\Blog.aspx.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:34:48.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\About.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\User\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\User\\About.aspx.cs",
+              "RelativeToolTip": "JobPortal\\User\\About.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:34:46.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ViewResumes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\ViewResumes.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\ViewResumes.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\ViewResumes.aspx.cs",
+              "RelativeToolTip": "JobPortal\\Employee\\ViewResumes.aspx.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:34:42.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViewResumeDetail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\ViewResumeDetail.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\ViewResumeDetail.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\ViewResumeDetail.aspx.cs",
+              "RelativeToolTip": "JobPortal\\Employee\\ViewResumeDetail.aspx.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:34:39.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JobList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\JobList.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\JobList.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\JobList.aspx.cs",
+              "RelativeToolTip": "JobPortal\\Employee\\JobList.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:34:37.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\Dashboard.aspx.cs",
+              "RelativeToolTip": "JobPortal\\Employee\\Dashboard.aspx.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAADMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:34:28.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddJobs.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\AddJobs.aspx.designer.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\AddJobs.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\AddJobs.aspx.designer.cs",
+              "RelativeToolTip": "JobPortal\\Employee\\AddJobs.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:34:26.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddJobs.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\AddJobs.aspx.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\AddJobs.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\AddJobs.aspx.cs",
+              "RelativeToolTip": "JobPortal\\Employee\\AddJobs.aspx.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:34:22.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddJobs.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\AddJobs.aspx",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\AddJobs.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\AddJobs.aspx",
+              "RelativeToolTip": "JobPortal\\Employee\\AddJobs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T06:34:21.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\EmployeeMaster.Master.cs",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\EmployeeMaster.Master.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\EmployeeMaster.Master.cs",
+              "RelativeToolTip": "JobPortal\\Employee\\EmployeeMaster.Master.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:33:33.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeMaster.Master",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\EmployeeMaster.Master",
+              "RelativeDocumentMoniker": "JobPortal\\Employee\\EmployeeMaster.Master",
+              "ToolTip": "C:\\Users\\User\\OneDrive - University of Computer Studies (Maubin)\\Desktop\\New folder (2)\\JobPortal\\JobPortal\\Employee\\EmployeeMaster.Master",
+              "RelativeToolTip": "JobPortal\\Employee\\EmployeeMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-16T06:32:03.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

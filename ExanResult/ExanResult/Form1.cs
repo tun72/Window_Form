@@ -48,7 +48,7 @@ namespace ExanResult
             }
             catch (Exception ex) 
             {
-                MessageBox.Show(ex.Message, "Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(ex.Message, "Message", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
             }
         }
 

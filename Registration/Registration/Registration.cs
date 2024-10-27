@@ -57,6 +57,8 @@ namespace Registration
             cboYear.Items.Add("Third Year");
             cboYear.Items.Add("Fourth Year");
             cboYear.Items.Add("Final Year");
+
+            dtp1.CustomFormat = "dd-MM-yyyy";
         }
 
       
@@ -64,7 +66,7 @@ namespace Registration
         private void btnInsert_Click(object sender, EventArgs e)
         {
             dtp1.Format = DateTimePickerFormat.Custom;
-            dtp1.CustomFormat = "dd-MM-yyyy";
+            dtp1.CustomFormat = "MM-dd-yyyy";
             String gender = string.Empty;
 
             if (rdoMale.Checked)
@@ -95,6 +97,11 @@ namespace Registration
         private void btnCancel_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void dtp1_ValueChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

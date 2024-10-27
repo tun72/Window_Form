@@ -1,0 +1,254 @@
+/*=======Here goes the main CSS=============*/
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #EEEEEE;
+    outline: none !important;
+    border: none !important;
+}
+
+#main {
+    width: 980px;
+    margin: 0 auto;
+}
+
+.logo {
+    background-color: #FFFFFF;
+    margin-top: 5px;
+}
+
+.menu {
+}
+
+    .menu ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333333;
+    }
+
+    .menu li {
+        float: left;
+    }
+
+        .menu li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 16px;
+            text-decoration: none;
+        }
+
+            .menu li a:hover {
+                background-color: #111111;
+            }
+
+
+#slider {
+}
+
+    #slider img {
+        width: 980px;
+        height: 250px;
+    }
+
+#container {
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+
+.sidebar {
+    float: left;
+    clear: left;
+    width: 25%;
+}
+
+.sidebar_wrap {
+    background-color: #E8E9EB;
+    margin: 20px;
+    padding: 11px;
+    text-align: justify;
+}
+.emplye_content
+{
+    background-color: #E8E9EB;
+    margin: 20px;
+    padding: 11px;
+    text-align: justify;
+}
+.main_content {
+    width: 75%;
+    overflow: hidden;
+}
+
+.main_content_wrap {
+    background-color: #E8E9EB;
+    margin: 20px;
+    padding: 11px;
+    text-align: justify;
+}
+
+#footer {
+    background-color: #333333;
+    padding: 15px;
+    overflow: hidden;
+}
+
+.footer_menu {
+    margin-top: 10px;
+}
+
+    .footer_menu ul {
+        list-style-type: none;
+        margin: 0;
+        padding-top: 0px;
+    }
+
+    .footer_menu li {
+        float: left;
+        padding: 7px;
+        margin-top: 11px;
+    }
+
+        .footer_menu li a {
+            display: block;
+            color: #111111;
+            text-align: left;
+            padding: 0px;
+            font-size: bold;
+            text-decoration: none;
+        }
+
+            .footer_menu li a:hover {
+                color: white;
+            }
+
+.copyright {
+}
+
+    .copyright p {
+        text-align: center;
+        color: white;
+    }
+
+/*Gridview_design*/
+.my_personal_design {
+    overflow: hidden;
+    background-color: white;
+    padding-left: 10px;
+    box-shadow: 1px 3px 3px green;
+    margin-bottom: -15px;
+    /*margin-left: 40px;*/
+}
+
+    .my_personal_design h1 {
+        font-size: 20px;
+        margin-top: 2px;
+        margin-bottom: -10px;
+        color:brown;
+    }
+
+    .my_personal_design p {
+        font-size: 17px;
+        margin-bottom: 6px;
+        /*margin-right: 20px;*/
+       
+    }
+    .ssc_group
+    {
+        overflow: hidden;
+background-color: white;
+box-shadow: 1px 2px 2px green;
+    }
+    .hsc_group
+    {
+overflow: hidden;
+background-color: white;
+box-shadow: 1px 2px 2px green;
+    }
+    .hnrs_group
+    {
+        overflow: hidden;
+background-color: white;
+box-shadow: 1px 2px 2px green;
+    }
+.my_education_design {
+    overflow: hidden;
+float: left;
+padding: 15px;
+    /*background-color: white;
+    padding-left: 10px;
+    box-shadow: 1px 3px 3px green;
+    margin-bottom: 10px;
+    float: left;
+    padding-right: 6px;*/
+}
+
+    .my_education_design h1 {
+        font-size: 20px;
+        margin-top: 2px;
+        margin-bottom: -10px;
+        color:brown;
+    }
+
+    .my_education_design p {
+        font-size: 17px;
+        margin-bottom: 6px;
+        margin-right: 20px;
+       
+    }
+
+
+/*.my_education_design {
+    overflow: hidden;
+    background-color: white;
+    padding-left: 10px;
+    box-shadow: 1px 3px 3px green;
+    margin-bottom: -15px;
+    margin-right: 300px;
+}
+
+    .my_education_design h1 {
+        font-size: 20px;
+        margin-top: 2px;
+        margin-bottom: -10px;
+       color:brown;  
+    }
+
+    .my_education_design p {
+        font-size: 17px;
+        margin-bottom: 6px;
+        margin-right: 20px;
+        color:crimson;
+    }*/
+.my_personal_design_left {
+    background-color: white;
+    float: left;
+    padding-left: 10px;
+    padding-right: 140px;
+    box-shadow: 1px 3px 3px green;
+    margin-bottom: 20px;
+}
+#ContentPlaceHolder1_GridView3 
+{
+    margin:0 auto;
+}
+.gridview_jobs_row
+{
+    
+    box-shadow:1px 2px 3px 0px green;
+    padding:10px;
+}
+tr.gridview_jobs_rowfull
+{
+    border-bottom:1px solid black;
+}
+/*.my_personal_design_right {
+    background-color: white;
+    float: right;
+    padding-left: 10px;
+    padding-right: 140px;
+    box-shadow: 1px 3px 3px green;
+    margin-bottom: 20px;
+}*/

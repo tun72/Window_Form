@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\bin\Debug\SimilarEmployee.exe.config
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\bin\Debug\SimilarEmployee.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\bin\Debug\SimilarEmployee.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\obj\Debug\SimilarEmployee.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\obj\Debug\SimilarEmployee.Properties.Resources.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\obj\Debug\SimilarEmployee.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\obj\Debug\SimilarEmployee.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\obj\Debug\SimilarEmployee.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\obj\Debug\SimilarEmployee.Employee.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\bin\Debug\Employee.mdf
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\SimilarEmployee\SimilarEmployee\bin\Debug\Employee_log.ldf

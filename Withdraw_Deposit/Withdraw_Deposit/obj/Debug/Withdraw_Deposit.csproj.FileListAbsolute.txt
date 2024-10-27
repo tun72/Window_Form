@@ -1,0 +1,57 @@
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.exe.config
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.LoginAndRegistration.resources
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.withdrawAnddeposit.resources
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.exe
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.pdb
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.exe
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.pdb
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Account.mdf
+C:\Users\ASUS\Desktop\C#Lecture\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Account_log.ldf
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.exe.config
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.exe
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.pdb
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Account.mdf
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Account_log.ldf
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.exe
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.pdb
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.LoginAndRegistration.resources
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.withdrawAnddeposit.resources
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.exe.config
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.exe
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.pdb
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Account.mdf
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Account_log.ldf
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.exe
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.pdb
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.LoginAndRegistration.resources
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.withdrawAnddeposit.resources
+C:\Users\ASUS\Desktop\C#Lecture\Window Form Application\Withdraw_Deposit\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Account.mdf
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Account_log.ldf
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.exe.config
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\bin\Debug\Withdraw_Deposit.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.LoginAndRegistration.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.Properties.Resources.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.withdrawAnddeposit.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.LoginAndRegistration.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.Properties.Resources.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.withdrawAnddeposit.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Withdraw_Deposit\Withdraw_Deposit\obj\Debug\Withdraw_Deposit.pdb

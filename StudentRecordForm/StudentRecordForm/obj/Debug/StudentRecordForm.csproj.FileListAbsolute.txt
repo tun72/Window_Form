@@ -1,0 +1,9 @@
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\StudentRecordForm\StudentRecordForm\bin\Debug\StudentRecordForm.exe.config
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\StudentRecordForm\StudentRecordForm\obj\Debug\StudentRecordForm.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\StudentRecordForm\StudentRecordForm\obj\Debug\StudentRecordForm.StudentRecord.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\StudentRecordForm\StudentRecordForm\obj\Debug\StudentRecordForm.Properties.Resources.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\StudentRecordForm\StudentRecordForm\obj\Debug\StudentRecordForm.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\StudentRecordForm\StudentRecordForm\bin\Debug\StudentRecordForm.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\StudentRecordForm\StudentRecordForm\bin\Debug\StudentRecordForm.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\StudentRecordForm\StudentRecordForm\obj\Debug\StudentRecordForm.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\StudentRecordForm\StudentRecordForm\obj\Debug\StudentRecordForm.pdb

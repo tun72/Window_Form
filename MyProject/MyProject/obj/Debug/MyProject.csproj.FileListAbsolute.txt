@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\MyProject\MyProject\bin\MyProject.dll
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\MyProject\MyProject\obj\Debug\MyProject.pdb

@@ -1,0 +1,44 @@
+========create acoount=======
+--- 1.job seeker
+	id
+	fname
+	lname
+	contact_no
+	gender
+	email
+	user_name
+	password
+	re_type_password
+--- 2.employeer
+        id
+	companyname
+	contact_no
+	catagory
+	email
+	user_name
+	password
+	re_type_password
+=======Login======
+---1.job seeker
+	username
+	password
+---2.employeer
+	username
+	password
+========View Jobs======
+
+0. id	
+1. Jobs Title
+2. Jobs catagory
+3. Vacancy
+4. Discription
+5. Jobs nature
+6. Educational requirement
+7. Jobs location
+8. Salary
+9. Jobs Deadline
+
+
+/////problem 
+register authenitcation requirmnt
+ /(^(\+8801|8801|01|008801))[1|5-9]{1}(\d){8}$/

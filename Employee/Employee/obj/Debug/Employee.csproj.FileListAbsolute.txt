@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\bin\Debug\EmployeeDB.mdf
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\bin\Debug\EmployeeDB_log.ldf
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\obj\Debug\Employee.Insert.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\obj\Debug\Employee.Delete_Employee.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Employee\Employee\obj\Debug\Employee.Update_Employee.resources

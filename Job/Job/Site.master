@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="Site" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="UTF-8">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+         
+    </asp:ContentPlaceHolder>
+     <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="main">
+            <div class="logo">
+                <img src="images/logo.png" alt="myjobportal">
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="Default.aspx">Home</a></li>
+                    <li><a href="View_Jobs.aspx">Jobs</a></li>
+                    <li><a href="Contact.aspx">Contact</a></li>
+                    <li><a href="About.aspx">About</a></li>
+                    <li><asp:LinkButton ID="login" runat="server" CausesValidation="False" OnClick="login_Click"></asp:LinkButton></li>
+                    <li><asp:LinkButton ID="logout" runat="server" CausesValidation="False" OnClick="logout_Click"></asp:LinkButton></li>
+                </ul>
+            </div>
+            <div id="slider">
+                <img src="images/slide.jpg" alt="this is slide">
+            </div>
+            <div id="container">
+                <div class="sidebar">
+                    <div class="sidebar_wrap">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+                <div class="main_content">
+                    <div class="main_content_wrap">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+            </div>
+            <div id="footer">
+                <div class="footer_menu">
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#news">News</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="#about">About</a></li>
+                    </ul>
+                </div>
+                <div class="copyright">
+                    <p>This is made by &copy; aalif</p>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
+
+

@@ -1,0 +1,2 @@
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Job\Job\obj\Debug\Job.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\New folder (2)\Job\Job\obj\Debug\Job.csproj.CoreCompileInputs.cache
